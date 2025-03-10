@@ -1,1 +1,3 @@
 /uploads
+.devcontainer/devcontainer.json
+__pycache__/music.cpython-312.pyc
